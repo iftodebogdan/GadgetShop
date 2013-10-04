@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/alpha/sony_alpha_nex_5nkb_d.jpg</ImagePath>
+		<Family>Sony Alpha</Family>
+		<Model>NEX-5NKB/D</Model>
+		<Description>Compacta si usor de utilizat, cu calitate DSLR si obiective interschimbabile. 16,1 megapixeli, Full HD AVCHD, 25/50p, 10 cps, ecran tactil LCD de 7,5 cm. Cu obiectiv de 18-55 mm si 16-28mm. Mica si usoara, cu calitate DSLR a imaginii.</Description>
+		<Price>3499</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/alpha/sony_alpha_dslr_nex3k_b.jpg</ImagePath>
+		<Family>Sony Alpha</Family>
+		<Model>NEX3K/B</Model>
+		<Description>Senzor CMOS Exmor™ APS HD de 14,2 MP, film HD, LCD 7,5 cm, Vedere panoramica. Obiectiv 18-55mm.Compacta si usoara, cu calitate a imaginii apropiata DSLR.Operare usoara, plus control creativ sofisticat.Capturati filme HD si panorame uimitoare.</Description>
+		<Price>2199</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/alpha/sony_alpha_nex_c3_b.jpg</ImagePath>
+		<Family>Sony Alpha</Family>
+		<Model>NEX-C3D/B</Model>
+		<Description>Compacta si usor de folosit,la calitate DSLR .Kit de voiaj cu doua lentile. Lentile 18-55mm si 16mm ,16,2 megapixeli ,filmare HD,ecran comod de 7,5 cm,fotografie in rafala 5,5 fps,3D Sweep Panorama.</Description>
+		<Price>3199</Price>
+	</Item>
+</ProductCatalog>

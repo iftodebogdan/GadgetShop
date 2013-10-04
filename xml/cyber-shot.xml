@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/cybershot/sony_cybershot_dsc_s3000_b.jpg</ImagePath>
+		<Family>Sony Cyber-shot</Family>
+		<Model>DSC-S3000/B</Model>
+		<Description>Camera foto Cyber-shot usor de utilizat, cu functii de fotografiere distractive. Rezolutie 10,1 megapixeli, zoom optic 4x, ecran LCD de 6,7 cm, Vedere panoramica si iAUTO * Fotografiere simpla, fara complicatii*</Description>
+		<Price>349</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/cybershot/sony_cyber_shot_dsc_wx7_b.jpg</ImagePath>
+		<Family>Sony Cyber-shot</Family>
+		<Model>DSC-WX7/B</Model>
+		<Description>Camera foto Cyber-shot™ cu filmare Full HD, ecran LCD de mari dimensiuni si fotografiere 3D.16,2 megapixeli, CMOS Exmor R™, zoom 5x/superangular de 25 mm, AVCHD Full HD, 3D, ecran LCD de 7,0 cm, Vedere panoramica*</Description>
+		<Price>849</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/cybershot/sony_cyber_shot_dsc_tx10_b.jpg</ImagePath>
+		<Family>Sony Cyber-shot</Family>
+		<Model>DSC-TX10/B</Model>
+		<Description>TX10 Camera digitala compacta.Cyber-shot™ ultrasubtire cu Full HD si design rezistent si impermeabil.16,2 megapixeli, senzor CMOS Exmor R™, zoom 4x/unghi panoramic de 25 mm, AVCHD Full HD, 3D, LCD de 7,5 cm, mod Vedere panoramica*</Description>
+		<Price>1399</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/cybershot/sony_cyber_shot_dsc_hx100.jpg</ImagePath>
+		<Family>Sony Cyber-shot</Family>
+		<Model>DSC-HX100</Model>
+		<Description>16,2 megapixeli, senzor Exmor R™, zoom 30x/unghi panoramic de 27 mm, Full HD 50p, 3D, LCD de 7,5 cm, mod Vedere panoramica, GPS. Interval de zoom ultraputernic, 30x, într-un corp compact.</Description>
+		<Price>1999</Price>
+	</Item>
+</ProductCatalog>

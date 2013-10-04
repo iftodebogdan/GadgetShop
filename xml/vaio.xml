@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/vaio/sony_vaio_vpc_eb3l1e_wi.jpg</ImagePath>
+		<Family>Sony VAIO</Family>
+		<Model>VPC-EB3L1E/WI</Model>
+		<Description>Primul pas catre divertismentul Sony! Noul Vaio este ideal pentru divertismentul de zi-cu-zi oferindu-va unitate display de 15,5' cu un contrast ridicat, grafica puternica de la ATI® si un spatiu generos de stocare - 320 GB.</Description>
+		<Price>2799</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/vaio/sony_vaio_vpc_yb3v1e.jpg</ImagePath>
+		<Family>Sony VAIO</Family>
+		<Model>VPC-YB3V1E/S</Model>
+		<Description>Notebook ultrasubtire cu procesor AMD Dual Core™ si durata mare de utilizare a bateriei. Continuati utilizarea pâna la 6,5 ore. Usor de transportat, având o greutate sub 1,5 kilograme.</Description>
+		<Price>2099</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/vaio/sony_vaio_vpc_f23m1e.JPG</ImagePath>
+		<Family>Sony VAIO</Family>
+		<Model>VPC-F23S1E</Model>
+		<Description>Creati în HD cu un inscriptor Blu-ray Disc™ si ecran Full HD VAIO Display Premium Divertisment cu imagine Full HD extrem de detaliata Jucati acum jocuri cu placa video rapida NVIDIA®.</Description>
+		<Price>5999</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/vaio/sony_vaio_vpc_z21v9e.jpg</ImagePath>
+		<Family>Sony VAIO</Family>
+		<Model>VPC-Z21V9E</Model>
+		<Description>PC ultraportabil valoros cu procesor Intel® Core™ i7 de a 2-a generatie si unitate SSD de 256 GB Design luxos din fibra de carbon Mobilitate absoluta, cu un profil ultrasubtire, de dimensiuni reduse.</Description>
+		<Price>11999</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/vaio/sony_vaio_3d_vpc_f21z1e_b.jpg</ImagePath>
+		<Family>Sony VAIO</Family>
+		<Model>VPC-F21Z1E/B</Model>
+		<Description>Cea mai buna calitate 3D oriunde Divertisment Full HD 3D minunat si confortabil cu tehnologie de afisare secventiala a cadrelor si Blu-ray 3D* Bucurati-va de cel mai bun continut 3D cu calitate si confort inegalabile pe un ecran Full HD 3D*.</Description>
+		<Price>6999</Price>
+	</Item>
+</ProductCatalog>

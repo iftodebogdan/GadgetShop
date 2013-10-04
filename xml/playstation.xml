@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/playstation/sony_play_playstation2_b.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>PlayStation 2</Model>
+		<Description>SINTETIZATOR GRAFIC - 147.456 MHz , PlayStation 2 format CD-ROM, PlayStation format CD-ROM, Compact Disc Audio, PlayStation 2 format DVD-ROM (4.7 GB), DVD Video (4.7 GB) , PROCESOR - Emotion Engine 64-biT , SLOT MEMORIE - RDRAM 32 MB.</Description>
+		<Price>579</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_play_usb_psp_30ox.JPG</ImagePath>
+		<Family>Sony</Family>
+		<Model>USB PSP-30OX</Model>
+		<Description>Camera externa pentru consola PSP . Informatii generale :Rezolutie -1.3 MP , Foto (pixeli): - 1280 x 1024 , Video (pixeli): - 480 x 272 , Caracteristici tehnice: Compatibilitate: - PSP , Microfon :- Mono , Functii: - Stocare imagini, Inregistrare video,Macro.</Description>
+		<Price>199</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_play_playstation_portable_b.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>PlayStation Portable</Model>
+		<Description>UMD (Universal Media Disc), PSP® CPU (System clock frequency 1 - 333MHz), LCD - TFT 16,770,000 milioane culori, Memory Stick Pro Duo, Rezolutie 480 x 272, Monaural speaker</Description>
+		<Price>449</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_play_cec_hzr1e.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>PlayStation CEC-HZR1E</Model>
+		<Description>Telecomanda pentru PS3 .Wireless , fara fir cu tehnologie Infrarosu , 51 de butoane directionale.</Description>
+		<Price>99</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_play_controller_ps3.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>PlayStation Controller PS3</Model>
+		<Description>Controller PS3 , cu tehnologie Bluetooth , Dual Shock</Description>
+		<Price>199</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_play_ps3_eye.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>PlayStation EYE</Model>
+		<Description>Camera WEB pentru consola PS3</Description>
+		<Price>169</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_playstation_playstation3_160_gb.jpg</ImagePath>
+		<Family>Sony</Family>
+		<Model>Playstation 3 160 GB</Model>
+		<Description>Cu noua consola PlayStation®3 160 GB GB vei avea mai mult spatiu pntru filmele , jocurile si pozele tale .Deasemenea te vei bucura de filmele Hd datorita player-ului Bluray incorporat.</Description>
+		<Price>1199</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/playstation/sony_playstation_playstation3_320_gb_move_pack.JPG</ImagePath>
+		<Family>Sony</Family>
+		<Model>Playstation 3 320 GB + PlayStation Move Pack</Model>
+		<Description>Cu noua consola PlayStation®3 320GB vei avea mai mult spatiu pntru filmele , jocurile si pozele tale .Deasemenea te vei bucura de filmele Hd datorita player-ului Bluray incorporat.</Description>
+		<Price>1299</Price>
+	</Item>
+</ProductCatalog>

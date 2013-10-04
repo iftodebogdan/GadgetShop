@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/handycam/sony_handycam_nex_vg10.jpg</ImagePath>
+		<Family>Sony Handycam</Family>
+		<Model>NEX-VG10</Model>
+		<Description>NEX-VG10E Camera video HD cu obiective interschimbabile Imagini video Full HD cinematografice cu flexibilitatea conferita de obiectivele interschimbabile.Full HD,CMOS Exmor® APS HD,obiectiv interschimbabil,microfon înalta calitate,LCD Xtra Fine,EVF,HDMI®.</Description>
+		<Price>8089</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/handycam/sony_handycam_hdr_td10.jpg</ImagePath>
+		<Family>Sony Handycam</Family>
+		<Model>HDR-TD10</Model>
+		<Description>Sony HDR-TD10 , camera video Sony 3D , cu inregistrare Full HD de pana la 26 de ore inmemoria interna de 64 GB, Lentile Dual G , zoom optic X10 in 3D, si X12 in 2D. </Description>
+		<Price>6599</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/handycam/sony_handycam_hdr_cx700.jpg</ImagePath>
+		<Family>Sony Handycam</Family>
+		<Model>HDR-CX700</Model>
+		<Description>Camera video Full HD cu o calitate exceptionala a imaginii si control creativ.Pâna la 40 h Full HD în memoria de 96 GB, obiectiv superangular, zoom optic 10x, foto 12,3 MP, ecran LCD de 7,5 cm, EVF, GPS*</Description>
+		<Price>5549</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/handycam/sony_handycam_hdr_pj50.jpg</ImagePath>
+		<Family>Sony Handycam</Family>
+		<Model>HDR-PJ50</Model>
+		<Description>Aproape 92 h Full HD pe HDD de 220 GB, zoom optic 12x, fotografii de 7,1 MP, LCD de 7,5 cm/3", proiector, iAUTO.Captura la calitate foarte ridicata în conditii de lumina scazuta cu Exmor R.</Description>
+		<Price>4599</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/handycam/sony_handycam_hdr_xr350ve.jpg</ImagePath>
+		<Family>Sony Handycam</Family>
+		<Model>HDR-XR350VE</Model>
+		<Description>Pâna la 67 h Full HD în memoria 160 GB, obiectiv superangular, zoom optic 12x, foto 7 MP, LCD 6,7 cm Captura la calitate foarte ridicata în conditii de lumina scazuta cu Exmor R™ Obiectivul superangular include mai mult în imagine.</Description>
+		<Price>3999</Price>
+	</Item>
+</ProductCatalog>

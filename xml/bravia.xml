@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/bravia/sony_bravia_kdl_46cx520.jpg</ImagePath>
+		<Family>Sony BRAVIA</Family>
+		<Model>KDL-46CX520</Model>
+		<Description>Televizor LCD, Full HD 1080 de 117 cm/46”: Wireless LAN Ready pentru accesarea clipurilor video de pe Internet si Skype™ * Beneficiati de o imagine Full HD clara si extrem de detaliata *</Description>
+		<Price>3149</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/bravia/sony_bravia_kdl_60ex700.jpg</ImagePath>
+		<Family>Sony BRAVIA</Family>
+		<Model>KDL-60EX700</Model>
+		<Description>TV LED de 60" (152cm), Full HD 1080, Wi-Fi® Ready, cu ecran Edge LED, Motionflow 100Hz si functii eco.Ecran Edge LED subtire si si imagini cu miscare fluida.Wi-Fi® Ready pentru acces la servicii online.</Description>
+		<Price>6999</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/bravia/sony_bravia_kdl_60nx720.jpg</ImagePath>
+		<Family>Sony BRAVIA</Family>
+		<Model>KDL-60NX720</Model>
+		<Description>Seria NX de la Sony BRAVIA combina tehnologia Sony de ultima generatie cu un design coplesitor.Tehnologie Dynamic EDGE LED , OptiContrast Panel si Gorilla Glass.</Description>
+		<Price>13299</Price>
+	</Item>
+</ProductCatalog>

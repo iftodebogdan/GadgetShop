@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/walkman/sony_walkman_nwz_a864_b.JPG</ImagePath>
+		<Family>Sony Walkman</Family>
+		<Model>NWZ-A864/B</Model>
+		<Description>8 GB, 5 tehnologii Clear Audio cu S-Master MX, Bluetooth®, ecran tactil, Media Go. Calitate premium a sunetului pentru pasionatii de muzica Auditie wireless perfecta prin Bluetooth™. Ecran tactil sensibil ultalarg.</Description>
+		<Price>699</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/walkman/sony_walkman_nwz_b163fb.jpg</ImagePath>
+		<Family>Sony Walkman</Family>
+		<Model>NWZ-B163FB</Model>
+		<Description>Compact si viu colorat, cu tuner FM, Direct USB si clema de prindere noua BASS Boost, încarcare rapida, lumina puternica, Direct USB, ZAPPIN™, transfer WMP, tuner FM Adaugati bas puternic cu doar un buton.</Description>
+		<Price>199</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/walkman/sony_mdr_z1000.JPG</ImagePath>
+		<Family>Sony</Family>
+		<Model>MDR-Z1000</Model>
+		<Description>Casti din gama de vârf proiectate pentru monitorizare profesionala în studio. Circumaurale de tip închis, 50 mm (diafragma cu pelicula din polimer cu cristale lichide), magnet de neodim. Sunet extrem de limpede si de precis.</Description>
+		<Price>1599</Price>
+	</Item>
+</ProductCatalog>

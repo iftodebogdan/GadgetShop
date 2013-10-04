@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ProductCatalog>
+	<Item>
+		<ImagePath>img/x-plod/sony_x_plod_cdx_gt450.jpg</ImagePath>
+		<Family>Sony X-Plod</Family>
+		<Model>CDX-GT450</Model>
+		<Description>Redati toata colectia dvs. muzicala digitala în masina.MP3/CD, USB si intrare AUX-IN frontale, Quick-BrowZer™, ZAPPIN™, Advanced Sound Engine, 4 x 52 W.Conectati toate dispozitivele muzicale digitale.</Description>
+		<Price>399</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/x-plod/sony_x_plod_xs_f6926.jpg</ImagePath>
+		<Family>Sony X-Plod</Family>
+		<Model>XS-F6926</Model>
+		<Description>Difuzor coaxial cu 2 cai, de 6" x 9", pentru toata gama de frecvente, cu con difuzor HOP din fibra aramid.</Description>
+		<Price>129</Price>
+	</Item>
+	<Item>
+		<ImagePath>img/x-plod/sony_x_plod_xs_f1736se.jpg</ImagePath>
+		<Family>Sony X-Plod</Family>
+		<Model>XS-F1736SE</Model>
+		<Description>Difuzor coaxial cu 2 cai pentru toata gama de frecvente, cu con difuzor HOP din fibra aramid. Putere de intrare nominala 40 W. Difuzor coaxial cu 2 cai, de 6 3/4 inci, pentru toata gama de frecvente.</Description>
+		<Price>99</Price>
+	</Item>
+</ProductCatalog>

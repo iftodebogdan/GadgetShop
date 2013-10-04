@@ -1,0 +1,43 @@
+body div a:hover {
+	cursor:hand;
+}
+
+#top-links {
+	left:50%;
+	margin-left:-500px;
+	position:relative;
+}
+
+#top-links-home {
+	margin-top:-2px;
+}
+
+#logo {
+	left:50%;
+	margin-left:-500px;
+	position:relative;
+}
+
+#logo a img {
+	border:0;
+}
+
+#main-header {
+	left:50%;
+	margin-left:-503px;
+	position:relative;
+}
+
+#main-center {
+	left:50%;
+	margin-left:-503px;
+	top:-3px;
+	position:relative;
+}
+
+#main-footer {
+	left:50%;
+	margin-left:-503px;
+	top:-3px;
+	position:relative;
+}

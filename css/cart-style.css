@@ -1,0 +1,48 @@
+.checkout {
+	font:12px Verdana;
+	padding:0px 10px;
+	color:#000000;
+}
+
+.checkoutinput {
+	font:12px Verdana;
+	padding:10px;
+	color:#000000;
+}
+	
+.nopcart {
+	background:#464444;
+	border:1px solid black;
+	font:12px Verdana;
+	color:#ffffff;
+	margin:0px auto;
+}
+
+.nopheader {
+	background:#6882d8;
+	font:12px Verdana;
+	padding:0px 10px;
+	color:#FFFFFF;
+}
+
+.nopentry {
+	background:#FFFFFF;
+	font:12px Verdana;
+	padding:10px;
+	color:#000000;
+}
+
+.noptotal {
+	background:#FFFFFF;
+	font:12px Verdana;
+	padding:0px 10px;
+	color:#000000;
+	text-align:right;
+}
+
+.nopbutton {
+	background:#FFFFFF;
+	font:12px Verdana;
+	padding:0px 10px;
+	color:#000000;
+} 

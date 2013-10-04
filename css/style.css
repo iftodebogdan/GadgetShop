@@ -1,0 +1,133 @@
+body {
+	background:#e8e8e8;
+	color:#000000;
+	margin:0px;
+}
+
+a {
+	font:12px Verdana;
+	color:#6882d8;
+	text-decoration:none;
+}
+
+#top-links a {
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#logo a {
+	font:bold 16px Verdana;
+	color:6882d8;
+	text-decoration:none;
+}
+
+#top-links {
+	width:1000px;
+	height:43px;
+	margin:0px auto;
+}
+
+#top-links-left {
+	width:16px;
+	height:43px;
+	float:left;
+	background-image:url('../img/links-menu-left.gif');
+	background-repeat:no-repeat;
+}
+
+#top-links-middle {
+	width:968px;
+	height:43px;
+	float:left;
+	background-image:url('../img/links-menu-bg.gif');
+	background-repeat:repeat-x;
+}
+
+#top-links-right {
+	width:16px;
+	height:43px;
+	float:right;
+	background-image:url('../img/links-menu-right.gif');
+	background-repeat:no-repeat;
+}
+
+.top-links-sep {
+	width:1px;
+	height:43px;
+	float:left;
+	background-image:url('../img/links-menu-sep.gif');
+	background-repeat:no-repeat;
+}
+
+#top-links-home {
+	width:20px;
+	height:16px;
+	float:left;
+	background-image:url('../img/home.png');
+	background-repeat:no-repeat;
+}
+
+.top-links-item {
+	font:bold 12px Verdana;
+	text-align:center;
+	min-width:50px;
+	height:30px;
+	margin:0px;
+	padding:12px 10px 0px 10px;
+	float:left;
+}
+
+#top-links-item:hover {
+	background-image:url('../img/links-menu-sep.gif');
+}
+
+#logo {
+	height:70px;
+	width:1006px;
+	margin:0px auto;
+	background-image:url('../img/logo.gif');
+	background-repeat:no-repeat;
+}
+
+#main-header {
+	height:16px;
+	width:1006px;
+	margin:0px auto;
+	background-image:url('../img/main-header.gif');
+	background-repeat:no-repeat;
+}
+
+#main-center {
+	width:1006px;
+	margin:0px auto;
+	background-image:url('../img/main-center.gif');
+	background-repeat:repeat-y;
+	text-align:center;
+}
+
+#main-footer {
+	height:16px;
+	width:1006px;
+	margin:0px auto;
+	background-image:url('../img/main-footer.gif');
+	background-repeat:no-repeat;
+}
+
+.product {
+	font:11px Verdana;
+	text-align:center;
+	border-spacing:1px;
+	margin:0px auto;
+	border:1px solid #d0d0d0;
+	width:80%;
+}
+
+.product .img {
+	width:150px;
+}
+
+.product .description {
+	padding:0px 50px;
+	background-color:#efefef;
+}
